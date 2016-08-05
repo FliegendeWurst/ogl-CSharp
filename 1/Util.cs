@@ -2,7 +2,7 @@
 using System;
 using System.Text;
 
-namespace open_btd
+namespace Example1
 {
 	class Util
 	{

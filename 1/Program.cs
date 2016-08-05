@@ -7,7 +7,7 @@ using OpenTK.Input;
 using System.Drawing.Imaging;
 using System.Text;
 
-namespace open_btd
+namespace Example1
 {
 	class Program
 	{
